@@ -1,4 +1,4 @@
-# Psame
+# Same Game
 
 <b>Het spel</b>
 Dit is een vrij bekend spel waarbij op een matrix tegels worden afgebeeld met verschillende kleuren. Aan elkaar grenzende tegels van dezelfde kleur kunnen als groep worden weggeklikt. Hiervoor worden dan punten worden verdiend. De tegels boven de weggeklikte tegels vallen naar beneden en nemen de plaats in van de weggeklikte tegels. Als alle tegels in een bepaalde kolom zijn weggeklikt schuiven de kolommen rechts hiervan naar links.In deze versie van het spel krijg je voor elke groep die je wegklikt het kwadraat van de grootte van de groep waardoor het loont om een grote groep te proberen te krijgen.
